@@ -1,6 +1,6 @@
-Name:
+Name: Codey Sun
 
-EID:
+EID: lcs2672
 
 Team Number:
 
@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/Saleae.png)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
